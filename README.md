@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kibby</h1>
+<h1 align="center">Hollaa amigos👋, I'm Kibby</h1>
 <h3 align="center">A passionate web developer and tech enthusiast from Indonesia 🇮🇩</h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **JavaScript, Node.js, and Web Development**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Node.js, and Web Development**
 - 💡 I love creating dynamic, interactive web apps
-- 💬 Ask me about **HTML, CSS, JS, or Git**
-- 🧋 Fun fact: I can debug code faster with cofee in hand huhuuu
+- 💬 Ask me about **HTML, CSS, JS, TS, or Git**
+- 🧋 Fun fact: I can debug code faster with boba in hand huhuuuu
 - ⚡ Motto hidup developer: *“Kalau error, berarti belajar. Kalau nggak error, pasti ada yang belum dijalankan.”*
 - 😆 Kamu itu kayak bug di hidupku — muncul tiba-tiba, bikin pusing, tapi kalau hilang aku malah kangen...
 
@@ -15,16 +15,16 @@
 
 ### 🧠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,vscode,git,github,figma" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kibbykazan03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kibbykazan03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibbykazan03&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibbykazan03&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ---
 
 ### ☕ Random Dev Note
-> Kadang hidup seperti JavaScript — banyak “undefined”, tapi kalau dijalankan dengan sabar, hasilnya bisa “awesome()”.
+> Kadang hidup seperti TypeScript — penuh tipe, tapi tetap error kalau salah pendekatan 😆  
 
 ---
 
