@@ -1,6 +1,4 @@
-## Holaaaaa amigos 👋
-
-<h1 align="center"> I'm Kibby but people usually call me abeyy</h1>
+<h1 align="center">Hi 👋, I'm Kibby</h1>
 <h3 align="center">A passionate web developer and tech enthusiast from Indonesia 🇮🇩</h3>
 
 ---
@@ -9,7 +7,9 @@
 - 🌱 I’m currently learning **JavaScript, Node.js, and Web Development**
 - 💡 I love creating dynamic, interactive web apps
 - 💬 Ask me about **HTML, CSS, JS, or Git**
-- ⚡ Fun fact: I enjoy solving coding challenges and learning new tools!
+- 🧋 Fun fact: I can debug code faster with cofee in hand huhuuu
+- ⚡ Motto hidup developer: *“Kalau error, berarti belajar. Kalau nggak error, pasti ada yang belum dijalankan.”*
+- 😆 Kamu itu kayak bug di hidupku — muncul tiba-tiba, bikin pusing, tapi kalau hilang aku malah kangen...
 
 ---
 
@@ -36,6 +36,18 @@
 
 ---
 
+### ☕ Random Dev Note
+> Kadang hidup seperti JavaScript — banyak “undefined”, tapi kalau dijalankan dengan sabar, hasilnya bisa “awesome()”.
+
+---
+
+### 🌻 Encouragement of the Day
+> 💬 *“Commit kecil setiap hari jauh lebih baik daripada satu push besar di akhir bulan — dalam kode maupun kehidupan.”*  
+>  
+> 🐸 Keep coding, keep smiling, dan jangan lupa: semesta juga butuh waktu untuk compile keajaibanmu ✨  
+
+---
+
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://github.com/Kibbykazan03" target="_blank">
@@ -45,4 +57,5 @@
 
 ---
 
-⭐️ **From [Kibbykazan03](https://github.com/Kibbykazan03)**
+⭐️ **From [Kibbykazan03](https://github.com/Kibbykazan03)**  
+🧠 *"Console.log your dreams and debug your fears."*
